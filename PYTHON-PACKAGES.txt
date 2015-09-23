@@ -1,0 +1,4 @@
+python2-ginga-git
+python2-glymur
+python2-sunpy
+python2-sunpy-git

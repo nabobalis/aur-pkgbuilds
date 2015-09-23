@@ -3,3 +3,7 @@ astropy>=1.0.0
 scipy
 pandas>=0.12.0
 matplotlib>=1.1
+beautifulsoup4
+requests
+suds
+openjpeg
