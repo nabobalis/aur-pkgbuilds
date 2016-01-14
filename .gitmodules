@@ -10,3 +10,6 @@
 [submodule "python2-sunpy-git"]
 	path = python2-sunpy-git
 	url = ssh+git://aur@aur.archlinux.org/python2-sunpy-git.git
+[submodule "gnome-shell-extension-randwall"]
+	path = gnome-shell-extension-randwall
+	url = ssh+git://aur.archlinux.org/gnome-shell-extension-randwall.git/
