@@ -13,3 +13,6 @@
 [submodule "gnome-shell-extension-randwall"]
 	path = gnome-shell-extension-randwall
 	url = ssh+git://aur@aur.archlinux.org/gnome-shell-extension-randwall.git
+[submodule "gtk-theme-arc-flatabulous-git"]
+	path = gtk-theme-arc-flatabulous-git
+	url = ssh+git://aur@aur.archlinux.org/gtk-theme-arc-flatabulous-git.git
