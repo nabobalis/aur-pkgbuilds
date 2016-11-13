@@ -1,4 +1,4 @@
-Nabil Freij’s AUR PKGBUILDs
+AUR PKGBUILDs
 =============================
 
 This repo stores [all my PKGBUILDs](https://aur.archlinux.org/packages/?SeB=m&K=nabobalis) in the AUR.  
