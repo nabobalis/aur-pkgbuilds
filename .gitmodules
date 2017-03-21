@@ -16,3 +16,6 @@
 [submodule "python-glymur"]
 	path = python-glymur
 	url = ssh://aur@aur.archlinux.org/python-glymur.git
+[submodule "python-suds-jurko"]
+	path = python-suds-jurko
+	url = https://aur.archlinux.org/python-suds-jurko.git
