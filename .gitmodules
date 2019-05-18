@@ -1,15 +1,9 @@
-[submodule "python2-ginga-git"]
-	path = python2-ginga-git
-	url = ssh+git://aur@aur.archlinux.org/python2-ginga-git.git
 [submodule "python2-glymur"]
 	path = python2-glymur
 	url = ssh+git://aur@aur.archlinux.org/python2-glymur.git
 [submodule "python2-sunpy"]
 	path = python2-sunpy
 	url = ssh+git://aur@aur.archlinux.org/python2-sunpy.git
-[submodule "python2-sunpy-git"]
-	path = python2-sunpy-git
-	url = ssh+git://aur@aur.archlinux.org/python2-sunpy-git.git
 [submodule "python-sunpy"]
 	path = python-sunpy
 	url = ssh://aur@aur.archlinux.org/python-sunpy.git
